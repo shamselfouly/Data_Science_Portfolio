@@ -18,27 +18,6 @@ In this project we apply causal inference to understand what factors cause a hot
 
 <br />
 
-## Data Analysis and Visualisation
-<img align="left" width="250" height="150" src="https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Online%20Testing%20Methods/Data/stocks.jpg"> **[Stock Market Analysis for Tech Stocks](https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Data%20Analysis%20%26%20Visualization/Finance%20Project.ipynb)** 
-
-Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction. 
-<br />
-<br />
-
-#
-
-<img align="left" width="250" height="150" src="https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Online%20Testing%20Methods/Data/911.png"> **[911 Calls - Exploratory Analysis](https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Data%20Analysis%20%26%20Visualization/911%20Calls%20Project.ipynb)**
-
-Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
-<br />
-<br />
-<br />
-#
-
-`Tools: Python, Pandas, Seaborn and Matplotlib`
-
-<br />
-
 ## Machine Learning
 
 <img align="left" width="250" height="150" src="https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Online%20Testing%20Methods/Data/lter_penguins.png"> **[Penguin_Dataset - Classification (SVR | KNN | Logistic Regression | Desision Tree | Random Forest)](https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Machine%20learning/Penguin_Dataset%20-%20Classification.ipynb)**
