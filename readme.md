@@ -90,7 +90,7 @@ The follwing project is a mini project to build a recommendation system that mak
 <br />
 # 
 
-`_Tools: Python, scikit-learn, Pandas, Seaborn and Matplotlib_`
+`Tools: Python, scikit-learn, Pandas, Seaborn and Matplotlib`
 
 
 ## Data Analysis and Visualisation
