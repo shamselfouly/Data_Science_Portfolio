@@ -17,7 +17,28 @@ In this project we apply causal inference to understand what factors cause a hot
 `Tools: Python, Pandas, dowhy & pygraphviz`
 
 <br />
-     
+
+## Data Analysis and Visualisation
+<img align="left" width="250" height="150" src="https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Online%20Testing%20Methods/Data/stocks.jpg"> **[Stock Market Analysis for Tech Stocks](https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Data%20Analysis%20%26%20Visualization/Finance%20Project.ipynb)** 
+
+Analysis of technology stocks including change in price over time, daily returns, and stock behaviour prediction. 
+<br />
+<br />
+
+#
+
+<img align="left" width="250" height="150" src="https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Online%20Testing%20Methods/Data/911.png"> **[911 Calls - Exploratory Analysis](https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Data%20Analysis%20%26%20Visualization/911%20Calls%20Project.ipynb)**
+
+Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrates extraction of useful features from different variables.
+<br />
+<br />
+<br />
+#
+
+`Tools: Python, Pandas, Seaborn and Matplotlib`
+
+<br />
+
 ## Machine Learning
 
 <img align="left" width="250" height="150" src="https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Online%20Testing%20Methods/Data/lter_penguins.png"> **[Penguin_Dataset - Classification (SVR | KNN | Logistic Regression | Desision Tree | Random Forest)](https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Machine%20learning/Penguin_Dataset%20-%20Classification.ipynb)**
@@ -111,19 +132,6 @@ Exploratory Data Analysis of the 911 calls dataset hosted on Kaggle. Demonstrate
 #
 
 `Tools: Python, Pandas, Seaborn and Matplotlib`
-
-<br />
-	
-## Online Testing Methods
-<img align="left" width="250" height="150" src="https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Online%20Testing%20Methods/Data/ab_testing.jpeg"> **[A/B Testing](https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Online%20Testing%20Methods/AB%20Testing/Udacity%20Final%20Project%20-%20AB-Testing.ipynb)**
-
-In this project we go through a website optimization senerio where we test whether a website interface change will lead to statictically & practically significant postive results. The test will start with selecting metrics to serves as sanity checks and also to act as a proxy to measure the change we are implementing. Afterwards, we assess metric variability and calculate sample size & expected experiment duration. We then analyze the experiment by perfroming first the sanity checks & then calculate propability changes between control & experimental groups, and finally, assess the significance of the results.
-
-<img align="left" width="250" height="150" src="https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Online%20Testing%20Methods/Data/cause-effect.png"> **[Causal Inference using DoWhy](https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Online%20Testing%20Methods/Causal%20Inference/DoWhy-The%20Causal%20Story%20Behind%20Hotel%20Booking%20Cancellations.ipynb)**
-	
-In this project we apply causal inference to understand what factors cause a hotel booking to be cancelled using the hotel bookings dataset from Antonio, Almeida and Nunes (2019). The analysis starts with some data cleaning & feature engineering to prepare the data. Afterward we apply the four steps of Causal Inference which include modeling causal mechanisms, identifing target estimand, estimating causal effect & finally refuting estimate
-	
-`Tools: Python, Pandas, dowhy & pygraphviz`
 
 <br />
 
