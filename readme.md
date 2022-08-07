@@ -6,7 +6,7 @@ The following Repository contains data science projects I have completed in addi
  - Course Code Materials
 
 ## Online Testing Methods
-<img align="left" width="250" height="150" src="https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Online%20Testing%20Methods/Data/ab_testing.jpeg"> **[A/B Testing](https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Online%20Testing%20Methods/AB%20Testing/Udacity%20Final%20Project%20-%20AB-Testing.ipynb)**
+<img align="left" width="250" height="150" src="https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Online%20Testing%20Methods/Data/ab_testing.jpeg"> **[A/B Testing](https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Online%20Testing%20Methods/AB%20Testing/AB-Testing.ipynb)**
 
 In this project we go through a website optimization senerio where we test whether a website interface change will lead to statictically & practically significant postive results. The test will start with selecting metrics to serves as sanity checks and also to act as a proxy to measure the change we are implementing. Afterwards, we assess metric variability and calculate sample size & expected experiment duration. We then analyze the experiment by perfroming first the sanity checks & then calculate propability changes between control & experimental groups, and finally, assess the significance of the results.
 
