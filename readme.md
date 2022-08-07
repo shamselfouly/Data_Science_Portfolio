@@ -1,5 +1,5 @@
 # Data Science Portfolio
-The following Repository contains data science projects I have completed in addition to code material used in my online courses presented in the form of iPython Notebooks. All links in the folder can to accessed from the following ReadMe. The Portifolio covers the following:
+The following Repository contains data science projects I have completed in addition to code material used in my online courses presented in the form of iPython Notebooks. All links in the folders can to accessed from the following ReadMe. The Portifolio covers the following:
  - Machine Learning
  - Data Analysis & Visualization
  - Online Testing Methods
