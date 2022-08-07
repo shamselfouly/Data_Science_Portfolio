@@ -14,7 +14,7 @@ This project explores five classification models aimed at classifying 3 differen
 <br />
 #
 
-<img align="left" width="250" height="160" src="https://github.com/shamselfouly/Data_Science_Portfolio/blob/master/Online%20Testing%20Methods/Data/undraw_world_9iqb.png"> **[Advertising Data (ClickOnAd) - Logistic Regression](https://github.com/shamselfouly/Data_Science_Portfolio/blob/master/Machine%20learning/Advertising%20Data%20(ClickOnAd)%20-%20Logistic%20Regression%20.ipynb)**
+<img align="left" width="250" height="160" src="https://github.com/shamselfouly/Data_Science_Portfolio/blob/master/Online%20Testing%20Methods/Data/undraw_world_9iqb.png"> **[Advertising Data (ClickOnAd) - Logistic Regression](https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Machine%20learning/Advertising%20Data%20(ClickOnAd)%20-%20Logistic%20Regression%20.ipynb)**
 
 In this project we explore Logistic Regression to classify whether an internet user clicked an ad or not based on 9 customer features and 1000 observations
 <br />
@@ -23,7 +23,7 @@ In this project we explore Logistic Regression to classify whether an internet u
 
 #
 
-<img align="left" width="250" height="150" src="https://github.com/shamselfouly/Data_Science_Portfolio/blob/master/Online%20Testing%20Methods/Data/machine_learning.jpg"> **[Artificial Data - KNN](https://github.com/shamselfouly/Data_Science_Portfolio/blob/master/Machine%20learning/Artificial%20Data%20-%20KNN.ipynb)**
+<img align="left" width="250" height="150" src="https://github.com/shamselfouly/Data_Science_Portfolio/blob/main/Online%20Testing%20Methods/Data/machine_learning.jpg"> **[Artificial Data - KNN](https://github.com/shamselfouly/Data_Science_Portfolio/blob/master/Machine%20learning/Artificial%20Data%20-%20KNN.ipynb)**
 
 In this project we explore K Nearest Neighbor (KNN) to classify instances from a fake dataset into two target classes, while choosing the best value for K using the elbow method. The model also includes data preparation step of standarization and transformation of data features
 <br />
